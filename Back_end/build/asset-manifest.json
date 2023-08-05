@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aabbac74.css",
+    "main.js": "/static/js/main.e0b1cb40.js",
+    "static/media/logo.png": "/static/media/logo.252c884946b1f9a7d54b.png",
+    "static/media/Ataa-e-Rasool .jpg": "/static/media/Ataa-e-Rasool .cdf137e8e4549213fa6f.jpg",
+    "static/media/logo1.jpg": "/static/media/logo1.d8e0991a52a267fea2f9.jpg",
+    "static/media/husane.JPG": "/static/media/husane.87884e49b9a3c0ee579f.JPG",
+    "static/media/hage.JPG": "/static/media/hage.d9c8707e6e321050b7fb.JPG",
+    "static/media/gusal.JPG": "/static/media/gusal.52b3916e98786483f41e.JPG",
+    "static/media/argman.JPG": "/static/media/argman.a1988ba680b0671388c9.JPG",
+    "static/media/raza.JPG": "/static/media/raza.5d2266397160c78bc892.JPG",
+    "static/media/tt.png": "/static/media/tt.c8a8ce071e55201f5729.png",
+    "static/media/const.JPG": "/static/media/const.c56bc229ed607bfdf31f.JPG",
+    "static/media/ayat.png": "/static/media/ayat.11c05b6f147941306cbe.png",
+    "static/media/education-promotion.avif": "/static/media/education-promotion.30c80a536b45c1d98fd7.avif",
+    "index.html": "/index.html",
+    "main.aabbac74.css.map": "/static/css/main.aabbac74.css.map",
+    "main.e0b1cb40.js.map": "/static/js/main.e0b1cb40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aabbac74.css",
+    "static/js/main.e0b1cb40.js"
+  ]
+}
